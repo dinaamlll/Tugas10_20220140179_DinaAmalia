@@ -4,6 +4,8 @@
 ![Screenshot (769)](https://github.com/dinaamlll/praktikumreactjs/assets/127063272/de047325-87b2-4455-9a51-970d55913d6e)
 ![Screenshot (766)](https://github.com/dinaamlll/praktikumreactjs/assets/127063272/f539661e-e427-4971-a138-0f4b9c3afb04)
 
+![code](https://github.com/dinaamlll/Tugas10_20220140179_DinaAmalia/assets/127063272/f0883108-859c-454b-8f34-2c595fc1cfcc)
+![CODDE](https://github.com/dinaamlll/Tugas10_20220140179_DinaAmalia/assets/127063272/9dc4da88-6c75-4552-a554-1eedb3eb4ea8)
 
 # Getting Started with Create React App
 
