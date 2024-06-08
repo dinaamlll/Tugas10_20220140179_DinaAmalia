@@ -1,3 +1,10 @@
+
+![Screenshot (767)](https://github.com/dinaamlll/praktikumreactjs/assets/127063272/422eb59e-d4f6-4d79-bc0f-d0f96459366e)
+![Screenshot (768)](https://github.com/dinaamlll/praktikumreactjs/assets/127063272/e6d52698-1feb-4c34-9ec1-d7d318111376)
+![Screenshot (769)](https://github.com/dinaamlll/praktikumreactjs/assets/127063272/de047325-87b2-4455-9a51-970d55913d6e)
+![Screenshot (766)](https://github.com/dinaamlll/praktikumreactjs/assets/127063272/f539661e-e427-4971-a138-0f4b9c3afb04)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
